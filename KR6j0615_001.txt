@@ -1,21 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:20.687796
+#+DATE: 2015-08-30 20:36:22.386907
 #+TITLE: 佛說宿命智陀羅尼經
 #+PROPERTY: CBETA_ID T21n1383
 #+PROPERTY: ID KR6j0615
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1383
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0615_T_001-0904b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1383¶
-
- 佛說宿命智陀羅尼經¶
+No. 1383¶
+佛說宿命智陀羅尼經¶
 ¶
-西天譯經三藏朝散大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉　詔譯¶
 
 爾時世尊告阿難言。有陀羅尼名宿命智。若¶
 有眾生聞是陀羅尼。能志心受持者。所有千¶
